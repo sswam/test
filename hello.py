@@ -2,7 +2,7 @@
 
 print("Hello, world")
 
-answer = 6 * 7
+answer = 6 * 7    // This calculates the answer!
 
-print("Now the code is good!! {answer}")
+print(f"Now the code is good!! {answer}")
 sys.exit(0)
